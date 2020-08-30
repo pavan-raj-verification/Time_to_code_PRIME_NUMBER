@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1598772318 source:c:\users\pavan\documents\codeblocks\timetocode_primenumber\src\prime.c
+
+1598772187 source:c:\users\pavan\documents\codeblocks\timetocode_primenumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prime.h"
+	"test_prime.h"
+
+1598773311 c:\users\pavan\documents\codeblocks\timetocode_primenumber\inc\prime.h
+
+1598772071 c:\users\pavan\documents\codeblocks\timetocode_primenumber\test\test_prime.h
+
+1596710268 source:c:\users\pavan\documents\codeblocks\timetocode_primenumber\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1596710268 c:\users\pavan\documents\codeblocks\timetocode_primenumber\unity\unity.h
+	"unity_internals.h"
+
+1596710268 c:\users\pavan\documents\codeblocks\timetocode_primenumber\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1598772785 source:c:\users\pavan\documents\codeblocks\timetocode_primenumber\test\test_prime.c
+	"unity.h"
+	"prime.h"
+
